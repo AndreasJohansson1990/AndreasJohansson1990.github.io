@@ -16,9 +16,7 @@
 title: Andreas Johansson
 email: andreasjohansson_2@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- lkjfdlkjdfslkjdsfjlkdlkjdkljfjkfds kljdskjldskjldskljsdkjl kjdskjldklj
- kljlkslkdslkj ajklasflkjsafjklsdfjslkfjslködjfsjfdölksdjfljsadlfj
- kljsdjklkljlsdjflkdsjf sfjklsdlkjlksdjlfafklj
+ This is a site about me Andreas Johansson
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: AndreasJohansson1990 
