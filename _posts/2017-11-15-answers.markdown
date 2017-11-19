@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Answers"
+date:   2017-11-15 03:47:51 -0500
+categories: questions
+---
+
+#### Precompiling css
+
+I think that the ability to create variables is a great feature, that way you can set a a color that you use a lot to a set variable instead of matching the hexa-digits.
+And in it's also easier to have a good structure in the code with the possibility for nesting CSS selectors.
+
+#### Techniques
+
+I used some variables and also some nesting.
+
+#### Pros
+
+* When you get used to it, it is faster than regular CSS
+* Variables
+* Structure
+
+#### Cons
+
+* For this exercise it was a bit messy at first before learning where to find the code you wanted to change
+
+#### Static site generators
+As I stated earlier in this post, it was a bit messy before getting to know the system and how to work with it. But after working with it and some experimenting (Don't forget google is your friend!) I think it is actually quite nice. I don't have to remember to add a new global link to every page like you have to with regular site building.
+
+Static site generators are good for blogs and other simples sites where extra features are not a necessity or maybe you simply want a site with great performance.
+
+#### Robots.txt
+Robots.txt gives web robots instructions when trying to search your site, you can set which robots to allow or disallow and also set specific content restrictions to different web robots.
+I've configured my robots.txt to apply to all robots (Some robots can still get through such as some malware robots) and I've only restricted their access to the content under "_includes".
+
+#### Humans.txt
+Humans.txt is simply a .txt document where you can add the team who created the site, people who contributed to the site in other ways and some site information such as when it was last updated or what standards you are using.
+
+#### Comments
+I used a template from a site called "Disqus" to implement comments to my blogposts.
+
+#### Open graph
+Open graph is a protocol that enables you to have the same shareability as posts on different social medias.
+I implement the code given at the open graph website to enable the social media features to an image on my site.
